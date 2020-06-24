@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Rock, Paper, Scissors. Enough Said.
+Rock, Paper, Scissors against an AI!
